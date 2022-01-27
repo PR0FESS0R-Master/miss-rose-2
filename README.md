@@ -35,3 +35,4 @@
 * Once deployed and bot is started, send a message to channel (must do step)
 * Bot will work now :)
 
+https://heroku.com/deploy?template=https://github.com/Sojusoj/File-Sharing-Bot
